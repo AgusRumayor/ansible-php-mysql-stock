@@ -1,3 +1,9 @@
 [submodule "ansible-php"]
 	path = ansible-php
 	url = https://github.com/geerlingguy/ansible-role-php.git
+[submodule "ansible-apache"]
+	path = ansible-apache
+	url = https://github.com/geerlingguy/ansible-role-apache.git
+[submodule "ansible-mysql"]
+	path = ansible-mysql
+	url = https://github.com/geerlingguy/ansible-role-mysql.git

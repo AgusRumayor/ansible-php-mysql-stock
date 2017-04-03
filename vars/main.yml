@@ -3,3 +3,4 @@ php_packages:
   - php-cli
   - php-common
   - php-mysql
+apache_listen_port: 8080
